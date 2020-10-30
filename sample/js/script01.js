@@ -31,7 +31,7 @@ $(function(){
     })
     
     $("#button04").on("click",function(){
-        samTwon(num1,num2)
+        samTwo(num1,num2)
     })
     
     // + - * /
